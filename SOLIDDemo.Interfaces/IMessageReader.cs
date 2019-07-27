@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DependencyInjection
+namespace SOLIDDemo.Interfaces
 {
-    interface IMessageWriter
+    public interface IMessageReader
     {
-        void WriteMessage(string message);
+        string ReadMessage();
     }
 }

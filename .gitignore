@@ -3,3 +3,16 @@
 ################################################################################
 
 /DependencyInjection/bin/Debug
+/DependencyInjection/obj/Debug
+/.vs/DependencyInjection/v16
+/packages
+/SOLIDDemo.Interfaces/bin/Debug
+/SOLIDDemo.Interfaces/obj/Debug
+/SOLIDDemo.Logging/obj/Debug
+/SOLIDDemo.Logic/bin/Debug
+/SOLIDDemo.Logic/obj/Debug
+/SOLIDDemo.SocialApp/obj/Debug
+/SOLIDDemo.SocialApp/bin/Debug
+/SOLIDDemo.Logging/bin/Debug
+/SOLIDDemo.ConsoleApp/bin/Debug
+/SOLIDDemo.ConsoleApp/obj/Debug
